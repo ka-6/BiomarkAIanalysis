@@ -8,8 +8,10 @@ A prototype for analyzing real-time hormonal biomarkers using Python and TensorF
 
 A prototype blending biomedical research with artificial intelligence to analyze hormonal biomarkers through predictive modeling.  
 <br><br>
-Designed with precision. Developed with innovation. Presented with elegance.
 
+<p align="center">
+  _"Subtle precision in every prediction, thus Refining data into meaningful insight."_  
+</p>
 ---
 
 ## ✨ **Project Overview**
@@ -51,9 +53,7 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 
 ---
 
-<p align="center">
-  _"Innovation lies in simplicity and elegance."_  
-</p>
+
 ## 🔒 Access Policy
 The code is publicly viewable for educational and research purposes. Usage without permission is strictly prohibited.
 
